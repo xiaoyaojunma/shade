@@ -2,6 +2,12 @@
 *.slo
 *.lo
 *.o
+*.sdf
+*.suo
+*.user
+*.opensdf
+Debug
+ipch
 
 # Compiled Dynamic libraries
 *.so
