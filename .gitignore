@@ -18,3 +18,5 @@ ipch
 *.lai
 *.la
 *.a
+
+.DS_Store
