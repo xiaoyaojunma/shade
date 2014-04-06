@@ -9,7 +9,7 @@
       'msvs_guid': 'B7760B5E-BFA8-486B-ACFD-49E3A6DE8E76',
 
       'includes': [
-        'core.gypi',
+        'shade.gypi',
       ],
 
       'include_dirs': [
